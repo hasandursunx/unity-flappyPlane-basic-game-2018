@@ -1,0 +1,2 @@
+D:\Hasan-Flash\FLASH\UNITY DERSLERİ\ucakoyunuProje\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+D:\Hasan-Flash\FLASH\UNITY DERSLERİ\ucakoyunuProje\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
